@@ -1,0 +1,10 @@
+h1, p {
+    color: black;
+    border: 2px;
+    background-color: antiquewhite;
+    border-style: dashed;
+}
+div > a {
+    color:blue;
+    background-color: black;
+}
